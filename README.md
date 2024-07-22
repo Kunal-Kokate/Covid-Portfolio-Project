@@ -2,7 +2,7 @@
 This project involves exploring global Covid-19 data from Our World in Data using MySQL. The primary focus is to aggregate, transform, and integrate data to support comprehensive analysis and visualization, helping to identify trends, disparities, and insights for informed decision-making.
 
 ## **Project Overview**
-Data Source: Our World in Data](https://ourworldindata.org/covid-deaths)
+Data Source: [Our World in Data](https://ourworldindata.org/covid-deaths)
 Tools Used: MySQL, Excel
 Data Size: 414,812 rows
 
